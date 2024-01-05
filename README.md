@@ -1,2 +1,3 @@
 # Imbalanced_retired_battery_data
-Accurate capacity estimation method for retired batteries considering massive imbalanced data
+Retired Power Battery Screening under Massive Imbalanced Data
+Data and core code will be coming soon.
