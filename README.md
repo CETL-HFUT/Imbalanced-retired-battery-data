@@ -1,5 +1,5 @@
 # Imbalanced_retired_battery_data
-data for our published article *Retired battery capacity screening based on deep learning with embedded feature smoothing under massive imbalanced data*
+data for our published article *Retired battery capacity screening based on deep learning with embedded feature smoothing under massive imbalanced data* at Energy
 
 https://www.sciencedirect.com/science/article/pii/S0360544225004037
 
