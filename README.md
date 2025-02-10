@@ -16,7 +16,7 @@ Sample data of 3000 retired batteries will be uploaded at *2025.03.01*.
 | --------   | ------   |
 |Model|IFR32135|
 |Size	|33.4 mm (D) 140.0 mm (H)|
-|Anode material	|LiFePO|
+|Anode material	|LiFePO_4|
 |Nominal capacity	|15.5 Ah|
 |Nominal voltage	|3.1 V|
 |Maximum allowable charging voltage	|3.9 V|
