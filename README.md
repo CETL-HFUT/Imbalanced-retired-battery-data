@@ -1,13 +1,13 @@
 # Imbalanced retired battery data
 
-This is a dataset for our published article [Retired battery capacity screening based on deep learning with embedded feature smoothing under massive imbalanced data](https://www.sciencedirect.com/science/article/pii/S0360544225004037) at Energy
+This is a sample dataset for our published article [Retired battery capacity screening based on deep learning with embedded feature smoothing under massive imbalanced data](https://www.sciencedirect.com/science/article/pii/S0360544225004037) at Energy.
 
 **ATTENTION: THIS DATA IS ONLY FOR ACADEMIC STUDY, NO COMMERCIAL USE PLEASE!**
 
 ---
 ### Data 
 
-Data of 3000 retired batteries will be uploaded at *2025.03.01*.
+Sample data of 3000 retired batteries will be uploaded at *2025.03.01*.
 
 ---
 ### Specification of the battery
