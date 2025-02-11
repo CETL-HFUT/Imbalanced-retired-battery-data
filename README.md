@@ -38,7 +38,7 @@ This is a sample dataset for our published article [Retired battery capacity scr
 ---
 ### Declaration 
 
-Citing as **CETL-data** if you feel the dataset is helpful.
+Citing as **CETL-data** if you find this dataset is helpful.
 
 ```
 @article{WU2025134761,
