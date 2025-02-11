@@ -2,12 +2,21 @@
 
 This is a sample dataset for our published article [Retired battery capacity screening based on deep learning with embedded feature smoothing under massive imbalanced data](https://www.sciencedirect.com/science/article/pii/S0360544225004037) at Energy.
 
-**ATTENTION: THIS DATA IS ONLY FOR ACADEMIC STUDY, NO COMMERCIAL USE PLEASE!**
+**ATTENTION: THE DATA IS ONLY FOR ACADEMIC STUDY. NO COMMERCIAL USE PLEASE!**
 
 ---
-### Data 
+### Data description
 
-Sample data of 3000 retired batteries will be uploaded at *2025.03.01*.
+CETL-data.mat is the sample data of **4000** commercial retired batteries. These batteries have been tested at the room temperature of about 25&deg;C and recorded with a sampling interval of 3s.
+
+|Symbol	|Meaning|
+| --------   | ------   |
+|Vp|Voltage data of retired batteries during charging|
+|Ip	|Current data of retired batteries during charging|
+|Ep	|Energy data of retired batteries during charging|
+|Qp	|Capacity data of retired batteries during charging|
+|Capacity_labels	|Corresponding available capacity of each battery|
+
 
 ---
 ### Specification of the battery
