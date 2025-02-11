@@ -7,7 +7,7 @@ This is a sample dataset for our published article [Retired battery capacity scr
 ---
 ### Data description
 
-`CETL-data.zip` is the sample data of **4000** commercial retired batteries. 
+`CETL-data.zip` is the sample data of **4000** commercial retired lithium-ion batteries. 
 - Charging is started from a random terminal voltage since the tested retired battery is usually not empty in practical applications.
 - After charge and rest, each battery will have a full discharge process to get the capacity label.
 - Ambient temperature is about 25&deg;C.
