@@ -7,21 +7,14 @@ This is a sample dataset for our published article [Retired battery capacity scr
 ---
 ### Data description
 
-CETL-data.mat is the sample data of **4000** commercial retired batteries. These batteries have been tested at the room temperature of about 25&deg;C and recorded with a sampling interval of 3s.
+`CETL-data.mat` is the sample data of **4000** commercial retired batteries. 
+- Charging is started from a random terminal voltage since the tested retired battery is usually not empty in practical applications.
+- After charge and rest, each battery will have a full discharge process to get the capacity label.
+- Ambient temperature is about 25&deg;C.
+- Data is recorded with a sampling interval of 3s.
+- More details can be found in the published paper.
 
-|Symbol	|Meaning|
-| --------   | ------   |
-|Vp|Voltage data of retired batteries during charging|
-|Ip	|Current data of retired batteries during charging|
-|Ep	|Energy data of retired batteries during charging|
-|Qp	|Capacity data of retired batteries during charging|
-|Capacity_labels	|Corresponding available capacity of each battery|
-
-
----
-### Specification of the battery
-
-|Specification	|Value|
+|Battery specification	|Value|
 | --------   | ------   |
 |Model|IFR32135|
 |Size	|33.4 mm (D) 140.0 mm (H)|
@@ -30,6 +23,17 @@ CETL-data.mat is the sample data of **4000** commercial retired batteries. These
 |Nominal voltage	|3.1 V|
 |Maximum allowable charging voltage	|3.9 V|
 |Maximum continuous discharge current	|1 C|
+
+---
+### CETL-data.mat
+
+|Symbol	|Meaning| Unit|
+| --------   | ------   |  ------ |
+|Vp |Voltage data during charging |mV |
+|Ip	|Current data during charging |mA |
+|Ep	|Energy data during charging |mWh |
+|Qp	|Capacity data during charging |mAh |
+|Capacity_labels	|Obtained through fully discharging |mAh |
 
 ---
 ### Declaration 
