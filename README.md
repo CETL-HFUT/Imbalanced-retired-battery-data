@@ -4,6 +4,12 @@ This is a sample dataset for our published article [Retired battery capacity scr
 
 **ATTENTION: THE DATA IS ONLY FOR ACADEMIC STUDY. NO COMMERCIAL USE PLEASE!**
 
+
+---
+### Update
+
+`2025.02.12 Discharging data is also provided now.`
+
 ---
 ### Data description
 
@@ -30,9 +36,13 @@ This is a sample dataset for our published article [Retired battery capacity scr
 |Symbol	|Meaning| Unit|
 | --------   | ------   |  ------ |
 |Vp |Voltage data during charging |mV |
+|Vd |Voltage data during discharging |mV |
 |Ip	|Current data during charging |mA |
+|Id |Current data during Current |mA |
 |Ep	|Energy data during charging |mWh |
+|Ed	|Energy data during discharging |mWh |
 |Qp	|Capacity data during charging |mAh |
+|Qd	|Capacity data during discharging |mAh |
 |Capacity_labels	|Obtained through fully discharging |mAh |
 
 ---
